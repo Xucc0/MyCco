@@ -1,0 +1,40 @@
+{
+  "pages": [
+
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "博学谷",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#333333",
+    "backgroundColor": "write",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/home.png",
+        "selectedIconPath": "/images/home.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "分类",
+        "iconPath": "/images/cate.png",
+        "selectedIconPath": "/images/home.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "用户",
+        "iconPath": "/images/me.png",
+        "selectedIconPath": "/images/home.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

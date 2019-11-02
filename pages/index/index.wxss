@@ -1,0 +1,146 @@
+/**index.wxss**/
+@import '/public/style/ffont.wxss';
+
+.tittle {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  width: 750rpx;
+  height: 100rpx;
+  background-color: #fff;
+  padding: 0 0 0 10px;
+  z-index: 10;
+  position:fixed;
+}
+.logo {
+  flex-direction:column;
+  align-items: center;
+  width: 182rpx;
+  height: 52rpx;
+}
+.logos {
+  width: 100%;
+  height: 100%;
+}
+.iconfont{
+  padding: 0 20px;
+  font-size: 25px;
+}
+/* header nav */
+.nav-top{
+  background-color: #fff;
+}
+.nav-imgs {
+  width: 750rpx;
+  height: 300rpx;
+}
+.nav-top-iteam{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 750rpx;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.nav-top-icon{
+  width: 100rpx;
+  height: 100rpx;
+  padding: 0 23px 5px 23px;
+}
+.icon-list-icon{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* body */
+
+.body{
+  background:#fff;
+  margin-top: 10px;
+  padding-bottom: 20px;
+}
+.body-top {
+  display: flex;
+  justify-content:space-between;
+  padding: 10px 15px;
+}
+.one{
+  display: block;
+  border-left: #38adff solid;
+  font-size: 16px;
+  padding-left: 6px;
+}
+.two {
+  font-size: 13px;
+}
+.body-list {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  margin-top: 10px;
+}
+.body-list-img {
+  width: 330rpx;
+  height: 186rpx;
+  border-radius: 5px;
+}
+.body-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+.body-text view:last-child {
+  display: flex;
+  justify-content: space-between;
+}
+.font-0{
+  font-size: 16px;
+  color: #333333;
+}
+.font-1{
+  font-size: 12px;
+  color: #999999;
+}
+.font-2{
+  font-size: 12px;
+  color: #666666;
+}
+.font-3{
+  font-size: 12px;
+  color: #ff544c;
+}
+.list-iteam{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 46%;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+.list-text-bottom{
+  display: flex;
+  justify-content: space-between;
+  padding:5px 20px 0 0; 
+}
+.list{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* nav-bottom */
+
+.nav-bottom {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  /* position:fixed; */
+  width: 100%;
+  height: 60px;
+  background:#fff;
+  margin-top: 20px;
+  z-index: 99999;
+}
+
+

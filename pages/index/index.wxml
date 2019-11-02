@@ -1,0 +1,267 @@
+<!-- heard -->
+<view class="all">
+<view class="tittle">
+  <view class="logo">
+    <image class="logos" src="https://m.boxuegu.com/_nuxt/img/logo.4ba874d.png"/>
+  </view>
+  <view class="iconfont icon-sousuo">
+  </view>
+</view>
+<!-- header nav -->
+<view class="nav-top">
+  <view class="nav-img">
+    <image class="nav-imgs" src="https://attachment-center.boxuegu.com/data/picture/online/2019/10/24/19/40c1905db99b4644a04fec33fc8031d1.jpg"/>
+  </view>
+  <view class="nav-top-iteam">
+    <view class="icon-list-icon">
+      <image class="nav-top-icon" src="https://m.boxuegu.com/web/images/index/course.png"/>
+      <view>就业课</view>
+    </view>
+    <view class="icon-list-icon">
+      <image class="nav-top-icon" src="https://m.boxuegu.com/web/images/index/mircoCourse.png"/>
+      <view>提升课</view>
+    </view>
+    <view class="icon-list-icon">
+      <image class="nav-top-icon" src="https://m.boxuegu.com/web/images/index/mircoCourse.png"/>
+      <view>免费课</view>
+    </view>
+    <view class="icon-list-icon">
+      <image class="nav-top-icon" src="https://m.boxuegu.com/web/images/index/courseType.png"/>
+      <view>课程分类</view>
+    </view>
+  </view>
+</view>
+<!-- body -->
+
+<view class="body">
+  <view class="body-top">
+    <view class="one">就业课</view>
+    <view class="two">更多</view>
+  </view>
+  <view class="body-list">
+    <view>
+      <image  class="body-list-img" src="https://file.boxuegu.com/f6c878722f394a7c9bd12c0319f00037.png"/>
+    </view>
+    <view class="body-text">
+      <view class="font-0">
+        JaveEE
+      </view>
+      <view class="font-1">
+        JavaEE是一个开放的、基于标准的平台
+      </view>
+      <view>
+        <view class="font-2">1784人学习</view>
+        <view class="font-3">¥14980.00</view>
+      </view>
+    </view>
+  </view>
+  <view class="body-list">
+    <view>
+      <image  class="body-list-img" src="https://file.boxuegu.com/6c0ffe21a06d421d90be8a0061c14c1a.png"/>
+    </view>
+    <view class="body-text">
+      <view class="font-0">
+        软件测试
+      </view>
+      <view class="font-1">
+        JavaEE是一个开放的、基于标准的平台
+      </view>
+      <view>
+        <view class="font-2">1784人学习</view>
+        <view class="font-3">¥14980.00</view>
+      </view>
+    </view>
+  </view>
+    <view class="body-list">
+    <view>
+      <image  class="body-list-img" src="https://file.boxuegu.com/3940be1c755a44eeb8e2e0aaf984756e.png"/>
+    </view>
+    <view class="body-text">
+      <view class="font-0">
+        前端与移动开发
+      </view>
+      <view class="font-1">
+        JavaEE是一个开放的、基于标准的平台
+      </view>
+      <view>
+        <view class="font-2">1784人学习</view>
+        <view class="font-3">¥14980.00</view>
+      </view>
+    </view>
+  </view>
+  <view class="body-list">
+    <view>
+      <image  class="body-list-img" src="https://file.boxuegu.com/e19c53c6c1fa468aad6e11cb61d81b9a.png"/>
+    </view>
+    <view class="body-text">
+      <view class="font-0">
+        Python
+      </view>
+      <view class="font-1">
+        JavaEE是一个开放的、基于标准的平台
+      </view>
+      <view>
+        <view class="font-2">1784人学习</view>
+        <view class="font-3">¥14980.00</view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="body">
+ <view class="body-top">
+    <view class="one">推荐课程</view>
+    <view class="two">更多</view>
+  </view>
+  <view class="list">
+  <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/989b9bd2a12d471b8e7579b7182d08b6.png"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/df25a3e7031a48d39a896d4e38d3d3d5.png"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+   </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/854b60de9d6742dbb29a47370b7c8650.png"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+   </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/df25a3e7031a48d39a896d4e38d3d3d5.png"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+  
+
+</view>
+</view>
+
+<view class="body">
+ <view class="body-top">
+    <view class="one">免费课</view>
+    <view class="two">更多</view>
+  </view>
+  <view class="list">
+  <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/3ed09c2ae4ea4542add4ac8b098c9535.jpg"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/6a0330c2237b4ed3af2a2703cc2f1419.jpg"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/74773be265b840b3af9da88f6f42841d.jpg"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+   </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/854b60de9d6742dbb29a47370b7c8650.png"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+   </view>
+    <view class="list-iteam">
+    <image class="body-list-img" src="https://file.boxuegu.com/df25a3e7031a48d39a896d4e38d3d3d5.png"/>
+    <view class="list-text">
+    <view class="font-0">所有人都能学的数据...</view>    
+    <view class="list-text-bottom">
+      <view class="font-2">710人学习</view>
+      <view class="font-3">¥399.00</view>
+    </view>
+  </view>
+  </view>
+  
+
+</view>
+
+</view>
+<view class="nav-bottom">
+  <view class="iconfont icon-1"></view>
+  <view class="iconfont icon-leimupinleifenleileibie"></view>
+  <view class="iconfont icon-xinbaniconshangchuan-"></view>
+  <view class="iconfont icon-gerenzhongxin"></view>
+</view>
+</view>
+
+
+
+
+
+
+
+
