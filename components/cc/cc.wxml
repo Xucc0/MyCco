@@ -1,0 +1,3 @@
+<view bind:tap="cc">
+    my name is {{ name }}
+</view>

@@ -1,0 +1,18 @@
+
+
+
+
+function mysubstr(str, size) {
+
+    var length = size || 10;
+
+    if (str.length <= length) return str;
+
+    return str.substring(0, length) + '...';
+
+}
+
+
+module.exports = {
+    mysubstr:mysubstr
+}

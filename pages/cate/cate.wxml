@@ -1,0 +1,15 @@
+
+
+
+<view class="cate">
+<block wx:for="{{ data }}" wx:key="data">
+    <view data-index="{{ index }}" bind:tap="clickFun" class="{{ changeColor[index] }}">{{item.tittle}}</view>
+</block>
+</view>
+
+
+<view class="desc">
+<block wx:for="{{ data }}" wx:key="data">
+    <view hidden="{{ showDatil[index] }}">{{item.desc}}</view>
+</block>
+</view>

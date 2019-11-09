@@ -1,0 +1,30 @@
+<template name="nav-top-cate">
+<block wx:for="{{navCate}}" wx:key="navCate">
+   <view class="icon-list-icon">
+      <image class="nav-top-icon" src="{{ item.img }}"/>
+      <view>{{ item.cate }}</view>
+    </view>
+</block>
+</template>
+
+<template name="body-list">
+<block wx:for="{{ bodyList }}" wx:key="bodyList">
+ <view class="body-list">
+    <view>
+      <image  class="body-list-img" src="{{item.img}}"/>
+    </view>
+    <view class="body-text">
+      <view class="font-0">
+       {{item.tittle}}
+      </view>
+      <view class="font-1">
+         {{item.text}}
+      </view>
+      <view>
+        <view class="font-2">{{item.study}}</view>
+        <view class="font-3">{{item.price}}</view>
+      </view>
+    </view>
+  </view>
+  </block>
+</template>

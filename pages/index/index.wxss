@@ -11,6 +11,19 @@
   padding: 0 0 0 10px;
   z-index: 10;
   position:fixed;
+  margin: 0;
+}
+.all {
+  position: absolute;
+}
+.page{
+  position: absolute;
+  bottom: 0;
+  right: 5px;
+  color: red;
+}
+.nav-list{
+  position: relative;
 }
 .logo {
   flex-direction:column;
@@ -28,12 +41,17 @@
 }
 /* header nav */
 .nav-top{
+  margin-top:100rpx;
   background-color: #fff;
 }
 .nav-imgs {
+  
   width: 750rpx;
   height: 300rpx;
 }
+/* .ss{
+  margin-top:100rpx;
+} */
 .nav-top-iteam{
   display: flex;
   align-items: center;

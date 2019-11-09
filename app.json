@@ -1,7 +1,10 @@
 {
   "pages": [
 
-    "pages/index/index"
+    "pages/test/test",
+    "pages/index/index",
+    "pages/nat1/nat1",
+    "pages/cate/cate"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -23,7 +26,7 @@
         "selectedIconPath": "/images/home.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/cate/cate",
         "text": "分类",
         "iconPath": "/images/cate.png",
         "selectedIconPath": "/images/home.png"

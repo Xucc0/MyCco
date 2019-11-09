@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "wu-dv": "/components/dv/dv",
+    "wu-name":"/components/cc/cc"
+  }
+}
